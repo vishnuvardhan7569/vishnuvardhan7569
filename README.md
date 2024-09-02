@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)
-<h1 align="center">Hi 👋, I'm Vishnu Vardhan Reddy</h1>
+<h1 align="center">Hello! 👋, I'm Vishnu Vardhan Reddy</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjYDWI6Em7jvHiTrn9etwUTv4JV0zPY8WE4g&s">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
-- 💬 Ask me about **react,sql,php,javascript**
+- 💬 Ask me about **React, Sql, PHP, JavaScript**
 
 - 📫 How to reach me **reddypvishnuvardhan760@gmail.com**
 
