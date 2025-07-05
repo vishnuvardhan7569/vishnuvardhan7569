@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-p-95a5a4256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan reddy.p" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishnu_7569" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishnu_7569" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishnuvardhan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnuvardhan75" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vishnuvardhan7569/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnuvardhan75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
